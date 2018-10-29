@@ -40,5 +40,7 @@ Potentially use LSTM's to capture both the level of complexity and the sequentia
 
 Open question: how do we standardize the sequence of both criminal events per block and weather events per block that lead up to the criminal event? Monthly? Yearly? For 2018 maybe just include the sequence of the last month. This means we need to chunk the data into month sequences that go into the LSTM's.
 
+Is it actually better to think about this problem as forecasting? Where we're forecasting the level of crime? Unknown.
+
 # End Goal
 Heatmap that predicts crime multiple days in advance.
