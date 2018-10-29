@@ -14,20 +14,20 @@ __Day One:__
 - Learn about ML on AWS
 - Go through a sample lab
 - Break into teams and focus on a new machine learning project\
-Deliverable: Produce a sample writeup explaining your modeling strategy
+__Deliverable:__ Produce a sample writeup explaining your modeling strategy
 
 __Day Two:__ 
 - Learn about feature engineering on AWS
 - Start new notebooks, sample your code, and develop preliminary data sets
 - Read the evaluation questions, and begin to think about how your modeling strategy compares to the evaluation questions.
 - Finish most of your feature engineering.\
-Stretch goal: produce a reference architecture explaining how you would like to use this model in production
+__Stretch goal:__ produce a reference architecture explaining how you would like to use this model in production
 
 __Day Three:__
 - Learn about putting your model into production.
 - Format your data into X's and Y's
 - Produce a preliminary version of your model\
-Stretch goal: produce multiple versions of your model and compare them
+__Stretch goal:__ produce multiple versions of your model and compare them
 
 ## What you'll need
 - AWS Account log in credentials
