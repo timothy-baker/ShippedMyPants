@@ -44,3 +44,5 @@ Is it actually better to think about this problem as forecasting? Where we're fo
 
 # End Goal
 Heatmap that predicts crime multiple days in advance. Final system should be a website that queries the Chicago data portal and local weather sensors every day, retrains the model over night, and generates new predictions for the day's criminal activity.
+
+Rather than getting side-tracked about the research goals, it might be more valuable to build the website first, and then load in new models over time as we ship them.
