@@ -1,4 +1,4 @@
-# Architecting-For-Machine-Learning
+# Architecting For Machine Learning
 Welcome to the art and science of machine learning! During this 3-day course you will learn about the theoy and application of machine learning in industry. This course is designed for architects and developers who did not previously have a background in AI/ML, to give them intuition and confidence in designing applications.
 
 We will cover:
@@ -17,7 +17,7 @@ Day One:
 - Produce a sample writeup explaining your modeling strategy
 
 Day Two: 
-- Learn about feature engineering on AWs
+- Learn about feature engineering on AWS
 - Start new notebooks, sample your code, and develop preliminary data sets
 - Read the evaluation questions, and begin to think about 
 
