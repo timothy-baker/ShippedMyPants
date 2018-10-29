@@ -4,9 +4,9 @@ Welcome to the art and science of machine learning! During this 3-day course you
 We will cover:
 - Statistical machine learning
 - Deep Learning
-- Model evaluation and comparison
 - Feature engineering
 - Deploying a model into production
+- Model evaluation and comparison
 
 ## Agenda
 
