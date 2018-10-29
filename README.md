@@ -1,5 +1,5 @@
 # Architecting For Machine Learning
-Welcome to the art and science of machine learning! During this 3-day course you will learn about the theoy and application of machine learning in industry. This course is designed for architects and developers who did not previously have a background in AI/ML, to give them intuition and confidence in designing applications.
+Welcome to the art and science of machine learning! During this 3-day course you will learn about the theoy and application of machine learning in industry. This course is designed for architects and developers who did not previously have a background in AI/ML, providing intuition and confidence in designing ML applications.
 
 We will cover:
 - Statistical machine learning
