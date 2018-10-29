@@ -1,4 +1,4 @@
-# User Guide for Example Code
+# User Guide
 Generally, this example code can be followed by starting in the ETL directory. 
 - Analyze Crimes
 - Analyze Weather
