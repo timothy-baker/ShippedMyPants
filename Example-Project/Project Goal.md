@@ -43,4 +43,4 @@ Open question: how do we standardize the sequence of both criminal events per bl
 Is it actually better to think about this problem as forecasting? Where we're forecasting the level of crime? Unknown.
 
 # End Goal
-Heatmap that predicts crime multiple days in advance.
+Heatmap that predicts crime multiple days in advance. Final system should be a website that queries the Chicago data portal and local weather sensors every day, retrains the model over night, and generates new predictions for the day's criminal activity.
