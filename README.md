@@ -8,6 +8,9 @@ We will cover:
 - Deploying a model into production
 - Model evaluation and comparison
 
+As a prerequisite to attending this course, we recommend reviewing Python programming using the statistical package Pandas.
+https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/ 
+
 ## Agenda
 
 __Day One:__
