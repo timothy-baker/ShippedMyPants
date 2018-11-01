@@ -9,7 +9,7 @@ We will cover:
 - Model evaluation and comparison
 
 As a prerequisite to attending this course, we recommend reviewing Python programming using the statistical package Pandas.
-https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/ 
+- https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/ 
 
 ## Agenda
 
