@@ -8,8 +8,9 @@ We will cover:
 - Deploying a model into production
 - Model evaluation and comparison
 
-As a prerequisite to attending this course, we recommend reviewing Python programming using the statistical package Pandas.
+As a prerequisite to attending this course, we recommend reviewing Python programming using the statistical package Pandas. We also recommend having a Cloud Practiioner AWS Certification, but it is not required.
 - https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/ 
+- https://aws.amazon.com/certification/certified-cloud-practitioner/ 
 
 ## Agenda
 
