@@ -1,4 +1,4 @@
-# Architecting For Machine Learning
+# Architecting For Machine Learning on Amazon SageMaker
 Welcome to the art and science of machine learning! During this 3-day course you will learn about the theory and application of machine learning in industry. This course is designed for architects and developers who did not previously have a background in AI/ML, providing intuition and confidence in designing ML applications.
 
 We will cover:
