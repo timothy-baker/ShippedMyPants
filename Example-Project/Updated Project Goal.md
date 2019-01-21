@@ -7,13 +7,15 @@ Linear learner worked functionally, but it was not highly accurate. Next iterati
       - is_hot
       - increase in temperature from yesterday
       - crimes-to-date on that block 
+      - need to find out the patterns of crime by day, what are the spikes / troughs?
 
 2. Use Obj2Vec to create embeddings
       - Each block & feature vector should have its own embedding
 
 3. Use Factorization Machines
       - Generate a matrix of all blocks against all types of crime
-      - Actually want to train on sequence of criminal activity on that block
+      - Actually want to train on sequence of criminal activity on that block. 
+            - In which case a single query would be a week's worth of activity on that block, for crimes the next day. 
 
 4. Run KNN
       - Build a similarity engine 
