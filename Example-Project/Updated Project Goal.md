@@ -8,6 +8,7 @@ Linear learner worked functionally, but it was not highly accurate. Next iterati
       - increase in temperature from yesterday
       - crimes-to-date on that block 
       - need to find out the patterns of crime by day, what are the spikes / troughs?
+      - add total count of crimes on that block per week, per year, total number of homocides ever
 
 2. Use Obj2Vec to create embeddings
       - Each block & feature vector should have its own embedding
