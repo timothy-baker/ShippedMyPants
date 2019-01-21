@@ -3,6 +3,8 @@
 Linear learner worked functionally, but it was not highly accurate. Next iteration:
 
 1. Use ETL to add:
+      - time of day, analyze, does it impact?
+      - month, analyze, does it impact? 
       - is_precipitation 
       - is_hot
       - increase in temperature from yesterday
