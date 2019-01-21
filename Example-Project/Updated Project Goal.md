@@ -15,6 +15,7 @@ Linear learner worked functionally, but it was not highly accurate. Next iterati
 
 2. Use Obj2Vec to create embeddings
       - Each block & feature vector should have its own embedding
+      - We can just grab all the crime in each block for the past week, then feed that as unequal size arrays into Obj2Vec to get embeddings.
 
 3. Use Factorization Machines
       - Generate a matrix of all blocks against all types of crime
